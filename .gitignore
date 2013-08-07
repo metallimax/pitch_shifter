@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.pyc
+
+# Audio files #
+###############
+*.wav
